@@ -208,3 +208,18 @@ body {
     text-align: center;
     padding: 60px 0;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+    
+    padding: 20px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+    
+}
